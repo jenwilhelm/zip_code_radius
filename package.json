@@ -1,0 +1,22 @@
+{
+  "name": "zip-code-radius",
+  "description": "Converts a city/state combination into a list of serviceable zip codes within a specified radius",
+  "version": "1.0.0",
+  "maintainers": [
+    {
+      "name": "Jen Wilhelm",
+      "email": "jen.wilhelm@moveline.com",
+      "web": "http://www.moveline.com/"
+    }
+  ],
+  "dependencies": {
+    "libxmljs": "0.12.0",
+    "line-by-line": "0.1.1",
+    "q": "1.0.0",
+    "request": "2.44.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  }
+}
